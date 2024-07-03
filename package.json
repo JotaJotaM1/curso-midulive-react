@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://{tu-usuario}.github.io/{curso-midulive-react}",
+  "homepage": "https://{JotaJotaM1}.github.io/{curso-midulive-react}",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
