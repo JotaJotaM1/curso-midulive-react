@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background: #222;
+    font-family: system-ui;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+}
+
+.cntFather{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 30px 20px;
+    border: 1px solid #535353;
+    border-radius: 10px;
+}
